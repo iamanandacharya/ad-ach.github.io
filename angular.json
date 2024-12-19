@@ -13,7 +13,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/anand",
+            "outputPath": "dist/anand.github.io",
+             "baseHref": "/anand.github.io/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "stylePreprocessorOptions": {
