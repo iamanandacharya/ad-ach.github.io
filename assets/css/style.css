@@ -152,7 +152,7 @@ button:focus {
 
 .header_section {
   padding: 200px 0px 120px;
-  /* background-image: url(../images/header_img.jpg); */
+  background-image: url(../images/header_img.jpg);
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -497,7 +497,7 @@ button:focus {
 
 .bg-client {
   position: relative;
-  /* background-image: url(../images/img-3.jpg); */
+  background-image: url(../images/img-3.jpg);
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -595,7 +595,7 @@ button:focus {
 
 .bg-cta {
   position: relative;
-  /* background-image: url(../images/img-2.jpg); */
+  background-image: url(../images/img-2.jpg);
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -689,7 +689,7 @@ button:focus {
 
 .bg-funfact {
   position: relative;
-  /* background-image: url(../images/img-1.jpg); */
+  background-image: url(../images/img-1.jpg);
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -705,7 +705,7 @@ button:focus {
 }
 
 .home-bg {
-  /* background-image: url(../images/home-bg.jpg); */
+  background-image: url(../images/home-bg.jpg);
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -790,7 +790,7 @@ button:focus {
   height: 100px;
   background: transparent;
   background-size: 100% 100%;
-  /* background-image: url(../images/bottom-color.png); */
+  background-image: url(../images/bottom-color.png);
 }
 
 /*----DEMO 7/8/9-----*/
