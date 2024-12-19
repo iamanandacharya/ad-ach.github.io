@@ -13,7 +13,7 @@ export class Index1Component implements AfterViewInit {
   ngAfterViewInit() {
     if (isPlatformBrowser(this.platformId)) {
       const options = {
-        strings: ['Anand Acharya.', 'A Designer.', 'A Devloper.'],
+        strings: ['Full-Stack', 'Mobile-App', 'Web-App', 'Frontend'],
         typeSpeed: 40,
         backSpeed: 40,
         showCursor: true,
