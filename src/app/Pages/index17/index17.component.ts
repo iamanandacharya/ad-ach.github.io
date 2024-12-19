@@ -37,7 +37,7 @@ export class Index17Component implements AfterViewInit {
 
   private initEffects() {
     const options = {
-      strings: ['anand Walters.', 'A Designer.', 'A Developer.'],
+      strings: ['Anand Acharya.', 'A Designer.', 'A Developer.'],
       typeSpeed: 40,
       backSpeed: 40,
       showCursor: true,

@@ -10,7 +10,7 @@ import { AfterViewInit, Component, ViewChild } from '@angular/core';
 export class Index16Component implements AfterViewInit {
 
   slides = [
-    { title: 'anand Walters', subtitle: 'Hello & Welcome', image: 'assets/images/home-bg.jpg' },
+    { title: 'Anand Acharya', subtitle: 'Hello & Welcome', image: 'assets/images/home-bg.jpg' },
     { title: 'A Designer', subtitle: 'Hello & Welcome', image: 'assets/images/home-bg.jpg' },
     { title: 'A Developer', subtitle: 'Hello & Welcome', image: 'assets/images/home-bg.jpg' }
   ];
