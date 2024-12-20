@@ -1,5 +1,6 @@
 ul {
     list-style-type: none;
+    margin-left: -2rem !important;
   }
   
   fa-icon{
@@ -40,4 +41,6 @@ ul {
     text-decoration: none;
   }
   
-    
+    .font-design {
+      font-size: 18px !important;
+    }
